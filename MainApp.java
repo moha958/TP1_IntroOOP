@@ -14,10 +14,12 @@ public class MainApp {
         student3.name = "mohammed laid ";
         student3.id = 1485167;
         student3.major = "Cybersecurity";
+        student3.major = "Cybersecurity5";
+
 
         student1.displayInfo();
         student2.displayInfo();
-        student3.displayInfo();
+        
 
         student1.major = "Artificial Intelligence";
         student1.displayInfo();
