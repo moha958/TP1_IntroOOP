@@ -10,10 +10,7 @@ public class Student {
         System.out.println("Student ID: " + id);
         System.out.println("Major: " + major);
         System.out.println("------------------------------");
-          System.out.println("Student Name: " + name);
-        System.out.println("Student ID: " + id);
-        System.out.println("Major: " + major);
-        System.out.println("------------------------------");
+
     }
     public void study() {
         System.out.println("The student " + name + " is currently studying OOP.");
